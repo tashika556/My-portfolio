@@ -705,9 +705,7 @@ footer .f-links li a:hover {
   font-size: clamp(29px, 7vw, 43px);
   line-height: clamp(38px, 7vw, 56px);
 }
-footer.footer-img {
-  padding-top: 262px;
-}
+
 .location_row {
   margin-bottom: -168px;
   z-index: 1;

@@ -32,38 +32,24 @@
                             <a class="text-white uppercase font-bold text-sm" href="index.php"> Home </a>
                         </li>
                         <li class="navbar-dropdown relative pr-10">
-                            <a href="#" class="text-white uppercase font-bold text-sm"> Company </a>
-                            <div class="dropdown">
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="about.php">Introduction</a>
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="company_profile.php">Company Profile</a>
-
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="team.php">Team</a>
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="chairman.php">Message From Chairman</a>
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="document.php">Legal Documents</a>
-                            </div>
+                            <a class="text-white uppercase font-bold text-sm" href="index.php"> Skills</a>
                         </li>
                         <li class="navbar-dropdown relative pr-10">
-                            <a href="#" class="text-white uppercase font-bold text-sm"> Recruitment </a>
-                            <div class="dropdown">
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="why_dkriver.php">Why Dkriverhr</a>
-
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="procedures.php">Selection Procedures</a>
-                                <a class="py-3 px-5 uppercase font-bold text-sm" href="terms.php">Terms & Conditions</a>
-
-                            </div>
-                        </li>
-
-
-                        <li class="navbar-dropdown relative pr-10">
-                            <a class="text-white uppercase font-bold text-sm" href="demands.php"> Demands </a>
+                            <a class="text-white uppercase font-bold text-sm" href="index.php">Education</a>
                         </li>
                         <li class="navbar-dropdown relative pr-10">
-                            <a class="text-white uppercase font-bold text-sm" href=""> Job Category </a>
+                            <a class="text-white uppercase font-bold text-sm" href="index.php">Work Experience</a>
                         </li>
-
                         <li class="navbar-dropdown relative pr-10">
-                            <a class="text-white uppercase font-bold text-sm" href="contact.php"> Contact </a>
+                            <a class="text-white uppercase font-bold text-sm" href="index.php">Training</a>
                         </li>
+                        <li class="navbar-dropdown relative pr-10">
+                            <a class="text-white uppercase font-bold text-sm" href="index.php">Contact</a>
+                        </li>
+                        <li class="navbar-dropdown relative pr-10">
+                            <a class="text-white uppercase font-bold text-sm bg-blue-300 p-4 rounded-lg" href="index.php">Download CV</a>
+                        </li>
+                       
                     </div>
                 </ul>
                 <!-- Modal toggle -->
@@ -72,11 +58,4 @@
         </div>
     </div>
 
-    <!-- modal start -->
-    <!-- component -->
-    <div class="flex items-center justify-center">
 
-        <!-- Button to open the modal -->
-        <button class="modal_btn-po md:block hidden uppercase font-bold text-white right-20 top-12 absolute z-20 btn_bg rounded-full block-inline hover:bg-white font-bold py-3 px-8 border-2 hover:border-white  hover:text-black rounded transition duration-300 ease-in-out"> Employer</button>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2"></script>
