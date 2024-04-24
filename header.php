@@ -16,6 +16,40 @@
 </head>
 
 <body>
+<!-- <div class="loader-wrap">
+        <div class="preloader">
+            <div class="preloader-close">x</div>
+            <div id="handle-preloader" class="handle-preloader">
+                <div class="animation-preloader">
+                    <div class="spinner"></div>
+                    <div class="txt-loading">
+                        <span data-text-preloader="t" class="letters-loading">
+                            t
+                        </span>
+                        <span data-text-preloader="a" class="letters-loading">
+                            a
+                        </span>
+                        <span data-text-preloader="s" class="letters-loading">
+                            s
+                        </span>
+                        <span data-text-preloader="h" class="letters-loading">
+                            h
+                        </span>
+                        <span data-text-preloader="i" class="letters-loading">
+                            i
+                        </span>
+                        <span data-text-preloader="k" class="letters-loading">
+                            k
+                        </span>
+                        <span data-text-preloader="a" class="letters-loading">
+                            a
+                        </span>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
     <div class="menu-btn block lg:hidden">
         <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
@@ -23,7 +57,7 @@
         <div class="header">
             <nav class="navbar flex">
                 <div class="logo_top">
-                    <a href="index.php" class="navbar-logo"><img src="img/logo.png" class="w-80 rounded-lg" alt="">
+                    <a href="index.php" class="navbar-logo"><img src="img/logo.png" class="w-80 rounded-lg bg-white" alt="">
                     </a>
                 </div>
                 <ul class="navbar-links  w-full  items-center flex justify-center">

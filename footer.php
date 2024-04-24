@@ -63,7 +63,7 @@
         <div class="item"><a href="index.php"> Work Experience</a></div>
         <div class="item"><a href="index.php"> Training </a></div>
         <div class="item"><a href="index.php">Contact</a></div>
-        <div class="item bg-blue-300 p-4 rounded-lg"><a href="index.php">Download CV</a></div>
+        <div class="item"><a href="index.php" class=" bg-blue-300 p-4 rounded-lg">Download CV</a></div>
        
     </div>
 </div>
