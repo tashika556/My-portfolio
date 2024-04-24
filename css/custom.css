@@ -494,4 +494,10 @@ i.fa.fa-twitter {
   z-index: 0;
 }
 
+.slider-image {
+  transition: transform 1s ease;
+}
 
+.slider-image:hover {
+  transform: rotateY(50deg); /* Adjust the angle as needed */
+}

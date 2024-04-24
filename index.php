@@ -14,7 +14,7 @@
 
         <div class="col-span-1">
             <div class="image-slider relative">
-<img src="img/laptop.png" alt="">
+            <img src="img/laptop.png" alt="" class="slider-image">
             </div>
         </div>
     </div>
