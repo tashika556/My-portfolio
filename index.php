@@ -8,7 +8,7 @@
 <h5 class="text-gray-300">Hy, My <b>Name</b> is</h5>
 <h1 class="uppercase text-white" id="typewriterContent">
     Tashika <br> Singh</span> </h1>
-    <h4 class="text-white mt-3">I am a programmer. <br>I love coding</h4>
+
 </div>
         </div>
 

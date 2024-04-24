@@ -57,7 +57,7 @@
         <div class="header">
             <nav class="navbar flex">
                 <div class="logo_top">
-                    <a href="index.php" class="navbar-logo"><img src="img/logo.png" class="w-80 rounded-lg bg-white" alt="">
+                    <a href="index.php" class="navbar-logo"><img src="img/logo.png" class="w-80" alt="">
                     </a>
                 </div>
                 <ul class="navbar-links  w-full  items-center flex justify-center">

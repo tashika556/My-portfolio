@@ -6,7 +6,7 @@
     <div class="mx-auto max-w-7xl lg:px-0 md:px-8 px-5 relative">
         <div class="grid lg:grid-cols-3 md:grid-cols-2 md:gap-11 gap-6 md:pb-11">
             <div class="col-span-1 pr-10">
-                <a href="index.php" class="navbar-logo"><img src="img/logo.jpg" class="w-80 mb-4  rounded-lg" alt="">
+                <a href="index.php" class="navbar-logo"><img src="img/logo.png" class="w-80 mb-4  rounded-lg" alt="">
                 </a>
 
             </div>
