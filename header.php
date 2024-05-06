@@ -81,9 +81,11 @@
                             <a class="text-white uppercase font-bold text-sm" href="index.php">Contact</a>
                         </li>
                         <li class="navbar-dropdown relative pr-10">
-                            <a class="text-white uppercase font-bold text-sm bg-blue-300 p-4 rounded-lg" href="index.php">Download CV</a>
+                            <a class="text-white uppercase font-bold text-sm bg-blue-300 p-4 rounded-lg" href="files/Tashika-Singh-CV.pdf" download>Download CV</a>
                         </li>
-                       
+                        <li class="navbar-dropdown relative pr-10">
+                            <a class="text-white uppercase font-bold text-sm bg-blue-600 p-4 rounded-lg" href="files/Tashika-Singh-CV.pdf">View CV</a>
+                        </li>
                     </div>
                 </ul>
                 <!-- Modal toggle -->
